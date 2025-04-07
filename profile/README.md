@@ -1,6 +1,3 @@
-## Welcome!
+# Site is moving
 
-Feel free to avail yourself of some of the fine open-source packages we've pinned below.
-
-If you are a Delegat AB customer, please log in to access `Delegat Foundation` and `Delegat SOAR`.
-
+The contents of this site is moving to [https://github.com/CloudSecOps-Org](https://github.com/CloudSecOps-Org). Head over to the new location and follow the instructions there.
